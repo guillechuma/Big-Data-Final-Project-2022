@@ -7,4 +7,4 @@ Authors:
 - Juan Carlos Carrasco
 - Guillermo Chumaceiro
 
-The [jupyter notebook](./Big_Data_Final_Project.ipynb) has a description of the problem and our trained scalable neural network. At the end the evaluation metrics for our model are presented.
+Our solution is in a [jupyter notebook](./Big_Data_Final_Project.ipynb). It has description of the problem and all the process to make our trained scalable neural network. At the end the evaluation metrics for our model are presented.
