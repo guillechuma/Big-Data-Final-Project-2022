@@ -7,4 +7,4 @@ Authors:
 - Juan Carlos Carrasco
 - Guillermo Chumaceiro
 
-The (jupyter notebook)[] has a description of the problem and our trained scalable neural network. At the end the evaluation metrics for our model are presented.
+The [jupyter notebook](./Big_Data_Final_Project.ipynb) has a description of the problem and our trained scalable neural network. At the end the evaluation metrics for our model are presented.
